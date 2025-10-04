@@ -1,6 +1,21 @@
-div{
+/* *{
+    padding: 0px;
+} */
+
+/* body{
+    margin: 0;
+    padding: 0;
+} */
+
+/* body > div{
     background-color: purple;
     padding: 20px;
     margin-bottom: 10px;
+} */
+
+div{
+    background-color: aqua;
+    /* padding: 5px; */
+    margin: 20px;
 }
 
