@@ -1,6 +1,6 @@
-/* *{
+*{
     padding: 0px;
-} */
+}
 
 /* body{
     margin: 0;
@@ -13,9 +13,12 @@
     margin-bottom: 10px;
 } */
 
-div{
+div.para{
     background-color: aqua;
-    /* padding: 5px; */
+    padding: 20px;
     margin: 20px;
+}
+h1{
+    /* padding: 0px; */
 }
 
